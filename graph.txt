@@ -1,0 +1,30 @@
+* 2e6eab3 resturado
+* 86df5d3 test
+* 98eaef3 Cambios en el index
+*   4b0911c Merge branch 'main' of https://github.com/reivenw/curso-de-github
+|\  
+| * 357ba9c resorce
+* | 0508484 resource test
+|/  
+* 05a3af2 agregando las estaciones del año
+* 98eb2e4 update index.html
+*   9927534 Merge Home-page to Main
+|\  
+| * 13b8723 update Js on index.html
+| * 6476ed0 Create Home Page
+* | 4467de8 update css on Index.html
+|/  
+* cc6c1fe update
+*   1b09fa1 Merge branch 'js'
+|\  
+| * 18287ea Update index.html
+| * fa3c290 Create Index.js
+* | 1c6733f Create Style.css
+* | c3aff8b Create Index.html
+|/  
+* 0e8fee3 ignore .exe�
+* 641eba4 First-File Update
+* 009eb66 Create First-file.html
+* 3f0276a New README Update
+* 846d19f  README Modifed ��
+* 878d074 first commit :)

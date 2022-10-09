@@ -1,0 +1,146 @@
+commit 2e6eab30521147d9b3d8cb25498bfaabdc47d462
+Author: gloross <hello@gloross.com>
+Date:   Sun Oct 9 11:47:14 2022 -0400
+
+    resturado
+
+commit 86df5d38e9eab2fa3b282b9e504d1777409f969d
+Author: gloross <hello@gloross.com>
+Date:   Sun Oct 9 11:45:10 2022 -0400
+
+    test
+
+commit 98eaef31d73f2af26ec55192ddc8632318819fe3
+Author: gloross <hello@gloross.com>
+Date:   Sun Oct 9 11:26:12 2022 -0400
+
+    Cambios en el index
+
+commit 4b0911ca5ac00866308638165c8a3dbc6287a1e3
+Merge: 0508484 357ba9c
+Author: gloross <hello@gloross.com>
+Date:   Sun Oct 9 11:18:35 2022 -0400
+
+    Merge branch 'main' of https://github.com/reivenw/curso-de-github
+
+commit 0508484a891e983a4e82c0a542f62691c7d975c4
+Author: gloross <hello@gloross.com>
+Date:   Sun Oct 9 11:16:10 2022 -0400
+
+    resource test
+
+commit 357ba9c784a3d8ea028297feb86332b1fe4c75a8
+Author: gloross <hello@gloross.com>
+Date:   Sun Oct 9 11:16:10 2022 -0400
+
+    resorce
+
+commit 05a3af2e9b39cc0804addbedd78a42419a8452ff
+Author: gloross <hello@gloross.com>
+Date:   Fri Oct 7 17:45:22 2022 -0400
+
+    agregando las estaciones del año
+
+commit 98eb2e4c846508b8570d5c988b0ae45a6f51c09a
+Author: gloross <hello@gloross.com>
+Date:   Fri Oct 7 17:41:37 2022 -0400
+
+    update index.html
+
+commit 99275342c4aa3716ea30dfb1cf2919a66ccba3b7
+Merge: 4467de8 13b8723
+Author: gloross <hello@gloross.com>
+Date:   Fri Oct 7 17:08:47 2022 -0400
+
+    Merge Home-page to Main
+
+commit 13b87237bed8c8d7bf33a03371a209ad028651c5
+Author: gloross <hello@gloross.com>
+Date:   Fri Oct 7 17:06:57 2022 -0400
+
+    update Js on index.html
+
+commit 4467de82ffc9687166be4da97a6320457af3851d
+Author: gloross <hello@gloross.com>
+Date:   Fri Oct 7 17:04:49 2022 -0400
+
+    update css on Index.html
+
+commit 6476ed0364aadb5108b6b1f8e041be6fe62d56b2
+Author: gloross <hello@gloross.com>
+Date:   Fri Oct 7 17:01:05 2022 -0400
+
+    Create Home Page
+
+commit cc6c1fede9fffef7de06ac7c6458f17606583c0c
+Author: gloross <hello@gloross.com>
+Date:   Fri Oct 7 16:57:22 2022 -0400
+
+    update
+
+commit 1b09fa1438989a9e7364dfc483ded4b3aa43ad1a
+Merge: 1c6733f 18287ea
+Author: gloross <hello@gloross.com>
+Date:   Thu Oct 6 15:36:39 2022 -0400
+
+    Merge branch 'js'
+
+commit 18287ea21737477493394c566a9a6501795d43fe
+Author: gloross <hello@gloross.com>
+Date:   Thu Oct 6 15:34:08 2022 -0400
+
+    Update index.html
+
+commit fa3c290af2ba6c4b60d280660895775335752393
+Author: gloross <hello@gloross.com>
+Date:   Thu Oct 6 15:30:39 2022 -0400
+
+    Create Index.js
+
+commit 1c6733f6846c49543301ca817a52ca19ded56653
+Author: gloross <hello@gloross.com>
+Date:   Thu Oct 6 15:26:25 2022 -0400
+
+    Create Style.css
+
+commit c3aff8b7f1e4c5bffa747d6cd798240c8f1acc9f
+Author: gloross <hello@gloross.com>
+Date:   Thu Oct 6 15:22:09 2022 -0400
+
+    Create Index.html
+
+commit 0e8fee3509a80b859b9bb52bfcda81b9cbaeb539
+Author: gloross <hello@gloross.com>
+Date:   Thu Oct 6 15:04:17 2022 -0400
+
+    ignore .exe�
+
+commit 641eba43cc0d1da20a4a12037049e3767cd45617
+Author: gloross <hello@gloross.com>
+Date:   Wed Oct 5 17:43:27 2022 -0400
+
+    First-File Update
+
+commit 009eb669d651dcc3dd39ac6a999e87577d440ee6
+Author: reivenw <99891506+reivenw@users.noreply.github.com>
+Date:   Wed Oct 5 17:23:43 2022 -0400
+
+    Create First-file.html
+
+commit 3f0276afdf38da9617402e430f92004ac0e8e39c
+Author: gloross <hello@gloross.com>
+Date:   Wed Oct 5 17:16:15 2022 -0400
+
+    New README Update
+
+commit 846d19fb90384550986b8d972fde3d9f7ea5514e
+Author: gloross <hello@gloross.com>
+Date:   Wed Oct 5 16:49:27 2022 -0400
+
+     README Modifed ��
+
+commit 878d074dd5d58f5b369d5275ef4ab1af03491cc5
+Author: gloross <hello@gloross.com>
+Date:   Wed Oct 5 16:39:44 2022 -0400
+
+    first commit :)
